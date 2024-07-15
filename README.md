@@ -34,8 +34,8 @@ Este proyecto utiliza los siguientes lenguajes y frameworks:
 
 ## Descarga el proyecto desde GitHub
 
-- (HTTPS): https://github.com/NextLeiva/ProjectBooking
-- (SSH): git@github.com:NextLeiva/ProjectBooking.git
+- (HTTPS): https://github.com/NextLeiva/ProjectResfullBooker.git
+- (SSH): git@github.com:NextLeiva/ProjectResfullBooker.git
 - Descargar: Descárgalo como archivo Zip y extráelo
 
 
