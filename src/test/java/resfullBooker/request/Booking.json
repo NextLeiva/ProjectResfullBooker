@@ -1,0 +1,35 @@
+[{
+  "firstname" : "David",
+  "lastname" : "Leiva",
+  "totalprice" : 200,
+  "depositpaid" : true,
+  "bookingdates" : {
+    "checkin" : "2024-07-12",
+    "checkout" : "2024-07-13"
+  },
+  "additionalneeds" : "Breakfast"
+},
+
+  {
+    "firstname" : "Itam",
+    "lastname" : "Caceres",
+    "totalprice" : 160,
+    "depositpaid" : true,
+    "bookingdates" : {
+      "checkin" : "2024-07-12",
+      "checkout" : "2024-07-13"
+    },
+    "additionalneeds" : "Breakfast"
+  },
+  {
+    "firstname" : "Joel",
+    "lastname" : "Leiva",
+    "depositpaid" : true,
+    "bookingdates" : {
+      "checkin" : "2024-07-12",
+      "checkout" : "2024-07-13"
+    },
+    "additionalneeds" : "Breakfast"
+  }
+
+]

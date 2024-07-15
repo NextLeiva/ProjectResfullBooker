@@ -1,0 +1,31 @@
+[
+
+  {
+    "firstname" : "Dereck",
+    "lastname" : "Collazos",
+    "totalprice" : 754,
+    "depositpaid" : true,
+    "bookingdates" : {
+      "checkin" : "2024-07-14",
+      "checkout" : "2024-07-15"
+    },
+    "additionalneeds" : "Breakfast"
+  },
+  {
+    "firstname" : "Maria",
+    "lastname" : "Trujillo",
+    "depositpaid" : true,
+    "bookingdates" : {
+      "checkin" : "2024-07-14",
+      "checkout" : "2024-07-15"
+    },
+    "additionalneeds" : "Breakfast"
+  },
+
+  {
+    "firstname" : "Eli",
+    "lastname" : "Collazos"
+  }
+
+
+]
