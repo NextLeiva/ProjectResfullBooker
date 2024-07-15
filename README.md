@@ -12,10 +12,10 @@ EL proyecto ha sido desarrollado por [Joel Leiva](https://www.linkedin.com/in/jo
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Ejemplos](#ejemplos)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+- [Lenguajes & Frameworks](#Lenguajes & Frameworks)
+- [Descarga el proyecto desde GitHub](#Descarga el proyecto desde GitHub)
+- [Conéctate conmigo](#Conéctate conmigo)
+
 
 ## Instalación
 - Java 11
