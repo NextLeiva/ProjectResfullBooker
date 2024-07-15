@@ -1,10 +1,10 @@
-![Joel Leiva](https://github-readme-stats.vercel.app/api?username=NextLeiva&show_icons=true&theme=dark)
+
 
 # ProjectResfullBooker
 
 RestFul Booker, es una API que puede utilizar para obtener más información sobre API Testing o probar herramientas de API Testing. RestFul-Booker contiene end-points que permiten Crear, Leer, Actualizar y Eliminar reservas.
 EL proyecto ha sido desarrollado por [Joel Leiva](https://www.linkedin.com/in/joel-armando-l-7aa263124/) para mejorar el desarrollo en pruebas automatizasas en servicios
-
+![Joel Leiva](https://github-readme-stats.vercel.app/api?username=NextLeiva&show_icons=true&theme=dark)
 
 ## Tabla de Contenidos
 
@@ -29,17 +29,11 @@ Este proyecto utiliza los siguientes lenguajes y frameworks:
 - Java 11: Como lenguaje de programación.
 - Maven como herramienta de compilación.
 
-## Uso
+## Descarga el proyecto desde GitHub
 
-Descarga el proyecto desde GitHub
 - (HTTPS): https://github.com/NextLeiva/ProjectBooking
 - (SSH): git@github.com:NextLeiva/ProjectBooking.git
 - Descargar: Descárgalo como archivo Zip y extráelo
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/NextLeiva/github-readme-stats)
-
-
-
 
 
 ## Conéctate conmigo
